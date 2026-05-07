@@ -1,0 +1,50 @@
+{
+  "info": {
+    "_postman_id": "78d4a6a0-cb85-4355-a2ed-63d1b52a9ac2",
+    "name": "Groq AI test",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "54570103"
+  },
+  "item": [
+    {
+      "name": "Request 1- Basic Question",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Request 2 - Model comparison",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Request 3 - Prompt Writing",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Request 4- Use case Ideas",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Request 5- Error Handling",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
